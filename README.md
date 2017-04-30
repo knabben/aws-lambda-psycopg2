@@ -33,7 +33,7 @@ Setting environment variables to access the database:
 Updating func code
 ---
 
-To update the code in the function, after building a new zip file
+To update the code in the function, after building a new zip file:
 
 ```
 $ make update_code
